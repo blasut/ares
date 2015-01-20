@@ -2,8 +2,6 @@
 
 Ongoing project, experimenting in NRE and word stuffs.
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/7/75/Ares_Canope_Villa_Adriana_b.jpg" alt="Ares" style="width:50px;">
-
 ## What? How? Why?
 
 ### What?
@@ -21,3 +19,6 @@ Through coding.
 ### Why?
 
 Might be interesting to use for papers or journalists and I'm curious of the results.
+
+
+![Ares](http://upload.wikimedia.org/wikipedia/commons/7/75/Ares_Canope_Villa_Adriana_b.jpg)
