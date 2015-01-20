@@ -2,7 +2,7 @@
 
 Ongoing project, experimenting in NRE and word stuffs.
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/7/75/Ares_Canope_Villa_Adriana_b.jpg" alt="Ares" style="width:100px;">
+<img src="http://upload.wikimedia.org/wikipedia/commons/7/75/Ares_Canope_Villa_Adriana_b.jpg" alt="Ares" style="width:50px;">
 
 ## What? How? Why?
 
